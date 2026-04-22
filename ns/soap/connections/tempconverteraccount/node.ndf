@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">soap</value>
+  <value name="node_nsName">project.testsoap.soap.connections:tempconverteraccount</value>
+  <value name="node_pkg">Sumi</value>
+  <value name="is_public">false</value>
+  <value name="assetId">Sumi.project.testsoap.soap.connections:tempconverteraccount</value>
+  <value name="connectionName">tempconverteraccount</value>
+  <value name="description">soap connector for temp connector</value>
+  <value name="connectorNSName">project.testsoap.soap.connectors:tempconverter</value>
+  <value name="port">TempConvertSoap</value>
+  <value name="url">http://www.w3schools.com/xml/tempconvert.asmx</value>
+  <value name="timeout">25000</value>
+  <value name="transportType">Basic</value>
+  <value name="transportUser">Administrator</value>
+  <value name="transportPass">project.testsoap.soap.connections.tempconverteraccount.transportPass</value>
+  <value name="transportServerCertsKeystoreAlias">project.testsoap.soap.connections.tempconverteraccount.transportServerCertsKeystoreAlias</value>
+  <value name="transportServerCertsKeyAlias">project.testsoap.soap.connections.tempconverteraccount.transportServerCertsKeyAlias</value>
+  <value name="messageUser"></value>
+  <value name="messagePass"></value>
+  <null name="messageServerCertsKeystoreAlias"/>
+  <null name="messageServerCertsKeyAlias"/>
+</Values>
